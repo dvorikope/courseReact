@@ -1,8 +1,2 @@
 # courseReact
-react course - modiin elit
-## react client
-***
-## other line
-blablablablablablablablablablablablablablablablablabla
-blablablablablablablablablablablablablablabla
-blablablablablablablablablablablabla
+made by dvori rubin- kope
